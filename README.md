@@ -16,3 +16,6 @@ Herramientas utilizadas para crear el proyecto:
 * DOM - Manipulación del árbol de objetos del documento.
 * Local Storage - Almacenamiento de datos en el navegador.
 * https://sweetalert2.github.io/#frameworks-integrations
+
+## Imagen
+![Captura de pantalla](Crud.png)
